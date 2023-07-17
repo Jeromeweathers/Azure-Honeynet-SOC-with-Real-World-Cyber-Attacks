@@ -1,6 +1,6 @@
 # Azure-Honeynet-SOC-with-Real-World-Cyber-Attacks
 
-![Cloud Honeynet / SOC]()
+![Cloud Honeynet / SOC](https://github.com/Jeromeweathers/Azure-Honeynet-SOC-with-Real-World-Cyber-Attacks/blob/main/AZUre%20aD.gif)
 
 ## Introduction and Objective
 
